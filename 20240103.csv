@@ -1,5 +1,5 @@
 ms_since_midnight,price,size,exchange,sale_condition,is_suspicious,trade_id,tape,aggressor_side
-34200000,189.50,100,Q,@,0,100000001,C,B
+34200000,189.50,1810,Q,@,0,100000001,C,B
 34200500,189.51,100,Q,@,0,100000002,C,B
 34201000,189.52,100,Q,@,0,100000003,C,B
 34201500,189.53,100,Q,@,0,100000004,C,B
